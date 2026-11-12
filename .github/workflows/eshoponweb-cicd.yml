@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: australiaeast
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: e6d6435e-2c56-4308-9fe7-a89812127d12
   WEBAPP-NAME: eshoponweb-webapp67269813
 
 jobs:
